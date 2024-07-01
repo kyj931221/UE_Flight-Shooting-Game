@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GitHub/UE_Flight-Shooting-Game/ShootingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/GitHub/UE_Flight-Shooting-Game/ShootingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/GitHub/UE_Flight-Shooting-Game/ShootingGame/Content/Maps/MainMap.umap",
+				"D:/GitHub/UE_Flight-Shooting-Game/ShootingGame/Content/Blueprints/BP_GameModeBase.uasset",
+				"D:/GitHub/UE_Flight-Shooting-Game/ShootingGame/Content/Blueprints/BP_Player.uasset",
+				"D:/GitHub/UE_Flight-Shooting-Game/ShootingGame/Content/Inputs/IMC_PlayerInput.uasset",
+				"D:/GitHub/UE_Flight-Shooting-Game/ShootingGame/Content/Inputs/IA_Horizontal.uasset",
+				"D:/GitHub/UE_Flight-Shooting-Game/ShootingGame/Content/Inputs/IA_Vertical.uasset",
+				"D:/GitHub/UE_Flight-Shooting-Game/ShootingGame/Content/Blueprints/BP_Bullet.uasset",
+				"D:/GitHub/UE_Flight-Shooting-Game/ShootingGame/Content/Inputs/IA_Fire.uasset"
 			]
 		}
 	]
