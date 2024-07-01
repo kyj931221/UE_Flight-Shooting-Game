@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+UE_Flight-Shooting-Game/ShootingGame/Binaries
+UE_Flight-Shooting-Game/ShootingGame/Intermediate
+UE_Flight-Shooting-Game/ShootingGame/Saved
+UE_Flight-Shooting-Game/ShootingGame/Content/Developers
+UE_Flight-Shooting-Game/ShootingGame/*.sln
+UE_Flight-Shooting-Game/ShootingGame/.vsconfig
+
